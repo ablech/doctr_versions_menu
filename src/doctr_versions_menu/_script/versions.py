@@ -35,7 +35,7 @@ from pathlib import Path
 
 DOCTR_VERSIONS_ENV_VARS = {}  # set by doctr-versions-menu
 
-DVM_REPO = 'git+https://github.com/goerz/doctr_versions_menu.git'
+DVM_REPO = 'git+https://github.com/ablech/doctr_versions_menu.git'
 
 
 def main(argv=None):
